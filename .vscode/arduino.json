@@ -1,7 +1,4 @@
 {
-    "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
-    "programmer": "avrisp",
-    "port": "COM5",
-    "sketch": "stoplight\\Stoplight.ino"
+    "port": "COM5"
 }
