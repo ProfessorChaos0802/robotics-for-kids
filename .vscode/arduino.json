@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:mega",
-    "port": "COM5"
+    "port": "COM5",
+    "sketch": "power-bank\\PowerBank.ino"
 }
